@@ -9,7 +9,9 @@ export function Footer() {
           {/* Author info */}
           <div className="text-sm text-muted-foreground text-center sm:text-left">
             <p className="font-medium text-foreground">Built by a Developer</p>
-            <p>23f3001886@ds.study.iitm.ac.in</p>
+            <p className="font-medium text-foreground">Nitesh Sharma</p>
+            
+            <p>niteshsharmans775@gmail.com</p>
           </div>
 
           {/* CTA button */}
